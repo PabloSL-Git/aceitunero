@@ -6,7 +6,7 @@ package aceitunas;
 
 public class Mensajes {
     public static final String menuInicial = """
-            Bienbenido a almazara
+            Bienbenido a la almazara
             No vuelvas
             """;
 
